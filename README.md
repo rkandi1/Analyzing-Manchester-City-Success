@@ -1,4 +1,5 @@
-<ins># Analyzing-Manchester-City-Success</ins>
+# Analyzing-Manchester-City-Success
+<br>
 
 
 ## Before you run this python notebook, please download the dataset from [this](https://www.kaggle.com/hugomathien/soccer) kaggle page. You can download the file by clicking the Download button on the top of the page under the jumbotron.
